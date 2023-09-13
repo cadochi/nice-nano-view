@@ -39,7 +39,7 @@
                      &kp CLCK  &kp LALT  &mt LGUI MINUS &kp SPACE &lt 1 LBKT  &lt 2 RBKT &kp RET &mt RGUI EQUAL &kp RALT  &kp RCTRL
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp PG_DN PG_UP>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP &inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
         };
 
         lower_layer {
